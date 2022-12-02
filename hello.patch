@@ -1,0 +1,7 @@
+diff --git a/hello.txt b/hello.txt
+index e69de29..540fb28 100644
+--- a/hello.txt
++++ b/hello.txt
+@@ -0,0 +1 @@
++new code 
+\ No newline at end of file
